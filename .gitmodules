@@ -1,0 +1,8 @@
+[submodule "test-sub2"]
+	path = test-sub2
+	url = git@github.com:amccurry/test-sub2.git
+	branch = master
+[submodule "test-sub1"]
+	path = test-sub1
+	url = git@github.com:amccurry/test-sub1.git
+	branch = master
